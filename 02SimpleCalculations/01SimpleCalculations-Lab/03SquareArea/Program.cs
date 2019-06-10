@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01GreetingByName
+namespace _03SquareArea
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
+            int a = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Hello, {name}!");
+            int area = a * a;
+            Console.WriteLine(area);
         }
     }
 }
