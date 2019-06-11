@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A1B34C2-26FF-42AE-904F-F11F41BB46BB}</ProjectGuid>
+    <ProjectGuid>{3CC346D8-FE01-4686-AD1D-022EE6159633}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_06CharityCampaign</RootNamespace>
-    <AssemblyName>06CharityCampaign</AssemblyName>
+    <RootNamespace>_07AlcoholMarket</RootNamespace>
+    <AssemblyName>07AlcoholMarket</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
