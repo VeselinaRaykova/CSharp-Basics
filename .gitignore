@@ -3,6 +3,8 @@
 *.pdf
 *.pptx
 *.ppt
+*.zip
+*.rar
 bin
 obj
 packages
