@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _08Moving
 {
@@ -10,6 +6,28 @@ namespace _08Moving
     {
         static void Main(string[] args)
         {
+            int width = int.Parse(Console.ReadLine());
+            int lenght = int.Parse(Console.ReadLine());
+            int height = int.Parse(Console.ReadLine());
+            int volume = width * lenght * height;
+            string command = Console.ReadLine();
+            int boxesVolume = 0;
+
+            while (command != "Done")
+            {
+                boxesVolume = int.Parse(command);
+                volume -= boxesVolume;
+                if (volume < 0)
+                {
+                    Console.WriteLine($"No more free space! You need {Math.Abs(volume)} Cubic meters more.");
+                    return;
+                }
+
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine($"{volume} Cubic meters left.");
+
         }
     }
 }
