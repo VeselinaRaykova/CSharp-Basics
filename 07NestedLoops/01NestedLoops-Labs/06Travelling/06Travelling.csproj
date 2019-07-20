@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05160703-F033-4804-B0B2-4A04391ED45A}</ProjectGuid>
+    <ProjectGuid>{3B9ABC45-8D72-4984-BCC7-2828639AFE39}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07Salary</RootNamespace>
-    <AssemblyName>07Salary</AssemblyName>
+    <RootNamespace>_06Travelling</RootNamespace>
+    <AssemblyName>06Travelling</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

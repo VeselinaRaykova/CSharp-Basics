@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Histogram", "05Histogram\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06DivideWithoutRemainder", "06DivideWithoutRemainder\06DivideWithoutRemainder.csproj", "{B60FF9E4-D1FC-45CD-88E0-4611743A1F37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Salary", "07Salary\07Salary.csproj", "{05160703-F033-4804-B0B2-4A04391ED45A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B60FF9E4-D1FC-45CD-88E0-4611743A1F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60FF9E4-D1FC-45CD-88E0-4611743A1F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60FF9E4-D1FC-45CD-88E0-4611743A1F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05160703-F033-4804-B0B2-4A04391ED45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05160703-F033-4804-B0B2-4A04391ED45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05160703-F033-4804-B0B2-4A04391ED45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05160703-F033-4804-B0B2-4A04391ED45A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
