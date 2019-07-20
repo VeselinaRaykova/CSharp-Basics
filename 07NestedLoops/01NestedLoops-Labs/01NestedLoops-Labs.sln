@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Travelling", "06Travellin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07NameWars", "07NameWars\07NameWars.csproj", "{94CED027-C6F8-4C4C-82B2-6DD74A6664B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08CookieFactory", "08CookieFactory\08CookieFactory.csproj", "{D65C0D95-B874-4629-9EF3-E36336D0DDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09MagicNumbers", "09MagicNumbers\09MagicNumbers.csproj", "{0812B682-E4E0-401C-AFEC-831BC7D4E163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{94CED027-C6F8-4C4C-82B2-6DD74A6664B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94CED027-C6F8-4C4C-82B2-6DD74A6664B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94CED027-C6F8-4C4C-82B2-6DD74A6664B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65C0D95-B874-4629-9EF3-E36336D0DDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65C0D95-B874-4629-9EF3-E36336D0DDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65C0D95-B874-4629-9EF3-E36336D0DDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65C0D95-B874-4629-9EF3-E36336D0DDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0812B682-E4E0-401C-AFEC-831BC7D4E163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0812B682-E4E0-401C-AFEC-831BC7D4E163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0812B682-E4E0-401C-AFEC-831BC7D4E163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0812B682-E4E0-401C-AFEC-831BC7D4E163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
