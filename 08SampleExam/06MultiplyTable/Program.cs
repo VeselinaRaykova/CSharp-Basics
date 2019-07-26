@@ -7,6 +7,7 @@ namespace _06MultiplyTable
         static void Main(string[] args)
         {
             string number = Console.ReadLine();
+
             int firstDigit = int.Parse(number[2].ToString());
             int secondDigit = int.Parse(number[1].ToString());
             int thirdDigit = int.Parse(number[0].ToString());
