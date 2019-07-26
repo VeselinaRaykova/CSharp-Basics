@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _06NameGame
 {
@@ -31,7 +27,7 @@ namespace _06NameGame
                     }
                 }
 
-                if (points > maxPoints)
+                if (points >= maxPoints)
                 {
                     maxPoints = points;
                     winner = name;
